@@ -1,12 +1,29 @@
-body{
+body {
     background-color: #BBBBBB;
 }
 
-hr{
-    border-color:#4B5D67;
-    border-style:none;
+hr {
+    border-color: #4B5D67;
+    border-style: none;
     border-top-style: dotted;
-    width: 75%;
     border-width: 5px;
-    
+    width: 75%;
+
+}
+
+h1,
+h3 {
+    color: #282A3A;
+}
+
+#message,
+#emailAddress,
+#yourName,
+#birthday,
+#newslettersS {
+    background-color: ghostwhite;
+}
+
+.userform {
+    background-color: lightgrey;
 }
